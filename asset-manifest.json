@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/UberHari/static/css/main.d5289b2f.css",
-    "main.js": "/UberHari/static/js/main.296e3c90.js",
+    "main.js": "/UberHari/static/js/main.2530e07e.js",
     "index.html": "/UberHari/index.html",
     "main.d5289b2f.css.map": "/UberHari/static/css/main.d5289b2f.css.map",
-    "main.296e3c90.js.map": "/UberHari/static/js/main.296e3c90.js.map"
+    "main.2530e07e.js.map": "/UberHari/static/js/main.2530e07e.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.296e3c90.js"
+    "static/js/main.2530e07e.js"
   ]
 }
