@@ -9,7 +9,7 @@ function App() {
       <MainNavigation />
       <Routes>
         <Route path="UberHari/" element={<Home />}></Route>
-        <Route path="UberHari/list" element={<AllEntries />}></Route>
+        <Route path="UberHari/UberHari/list" element={<AllEntries />}></Route>
       </Routes>
     </div>
   );
