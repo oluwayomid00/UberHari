@@ -39,7 +39,7 @@ const NewEntry = () => {
         },
       }
     ).then(() => {
-        history("UberHari/list");
+        history("/list");
     });
   }
 
