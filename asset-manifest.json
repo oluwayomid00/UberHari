@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UberHari/static/css/main.d5289b2f.css",
+    "main.js": "/UberHari/static/js/main.5e0eeb39.js",
+    "index.html": "/UberHari/index.html",
+    "main.d5289b2f.css.map": "/UberHari/static/css/main.d5289b2f.css.map",
+    "main.5e0eeb39.js.map": "/UberHari/static/js/main.5e0eeb39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.5e0eeb39.js"
+  ]
+}
