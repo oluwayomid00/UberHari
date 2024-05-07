@@ -27,7 +27,7 @@ const MainNavigation = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="UberHari/UberHari/list" className="nav-link">
+                <Link to="UberHari/list" className="nav-link">
                   List of Entries
                 </Link>
               </li>
