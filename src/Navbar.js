@@ -5,7 +5,7 @@ const MainNavigation = () => {
     <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
-          <Link to="/" className="navbar-brand">
+          <Link to="UberHari/" className="navbar-brand">
             Uber Hari Cost Proposal
           </Link>
           <button
@@ -22,12 +22,12 @@ const MainNavigation = () => {
           <div className="collapse navbar-collapse" id="navbarsExample07">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className=" nav-item">
-                <Link to="/" className="nav-link">
+                <Link to="UberHari/" className="nav-link">
                   New Entry
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/list" className="nav-link">
+                <Link to="UberHari/list" className="nav-link">
                   List of Entries
                 </Link>
               </li>

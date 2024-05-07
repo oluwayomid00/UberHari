@@ -8,11 +8,9 @@ function App() {
     <div>
       <MainNavigation />
       <Routes>
-        <Route path="/" element={<Home />}></Route>
-        <Route path="/list" element={<AllEntries />}></Route>
+        <Route path="UberHari/" element={<Home />}></Route>
+        <Route path="UberHari/list" element={<AllEntries />}></Route>
       </Routes>
-
-
     </div>
   );
 }
